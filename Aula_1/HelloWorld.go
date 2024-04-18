@@ -1,5 +1,6 @@
 package main
 
+//Importando "fmt". Ele usado para formatar textos e exibir
 import "fmt"
 
 func menu() {
